@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.22823.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VqSoft.Framework.Common", "VqSoft.Framework.Common\VqSoft.Framework.Common.csproj", "{3AB6FBBA-7154-4E1A-8F69-56B58A641846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VqSoft.Framework.Test", "VqSoft.Framework.Test\VqSoft.Framework.Test.csproj", "{04B92324-CF96-471B-8566-720F27E47446}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3AB6FBBA-7154-4E1A-8F69-56B58A641846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AB6FBBA-7154-4E1A-8F69-56B58A641846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AB6FBBA-7154-4E1A-8F69-56B58A641846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B92324-CF96-471B-8566-720F27E47446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B92324-CF96-471B-8566-720F27E47446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B92324-CF96-471B-8566-720F27E47446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B92324-CF96-471B-8566-720F27E47446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
