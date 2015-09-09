@@ -47,6 +47,7 @@
     <Compile Include="SingletonProvider.cs" />
     <Compile Include="Utils\CodeTimer.cs" />
     <Compile Include="Utils\CodeTimerNet20.cs" />
+    <Compile Include="Utils\UrlHelperVq.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
